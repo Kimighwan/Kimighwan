@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikhwan Kim, game developer.</h1>
 <h3 align="center">I'm studying at university.</h3>
-
+ <br />
+ <br />
 
 - 🔭 I’m currently working on [Pioneers](https://decisive-lamb-49b.notion.site/a2f40f85933e4cb98f595f0db00b401c?v=adba39dfbc53411784194fadcc2502a0)
 
@@ -9,7 +10,8 @@
 - 📝 I regularly write articles on [https://kimighwan.github.io/](https://kimighwan.github.io/)
 
 - 📫 How to reach me **moonfgg@naver.com**
- 
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

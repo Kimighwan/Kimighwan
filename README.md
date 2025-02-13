@@ -3,8 +3,6 @@
  <br />
  <br />
 
-- 🔭 I’m currently working on [Pioneers](https://decisive-lamb-49b.notion.site/a2f40f85933e4cb98f595f0db00b401c?v=adba39dfbc53411784194fadcc2502a0) -> (repositorie : private)
-
 - 🌱 I’m currently learning **Unity, Unreal, C++, C#, Algorithm**
 
 - 📝 I regularly write articles on [https://kimighwan.github.io/](https://kimighwan.github.io/)
@@ -13,6 +11,15 @@
 <br />
 <br />
 
+## Team Project
+
+- [Pioneers](https://decisive-lamb-49b.notion.site/a2f40f85933e4cb98f595f0db00b401c?v=adba39dfbc53411784194fadcc2502a0) -> (private)
+- [MnemoPhage]()
+- [우리 길드 정상 영업합니다.]()
+
+<br />
+<br />
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.discord.com/users/395463256694587392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ik__hwan" height="30" width="40" /></a>

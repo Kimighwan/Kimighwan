@@ -13,8 +13,8 @@
 
 ## Team Project
 
-- [Pioneers](https://decisive-lamb-49b.notion.site/a2f40f85933e4cb98f595f0db00b401c?v=adba39dfbc53411784194fadcc2502a0) -> (private)
-- [MnemoPhage](https://github.com/Kimighwan/MnemoPhage)
+- Pioneers # [Pioneers](https://decisive-lamb-49b.notion.site/a2f40f85933e4cb98f595f0db00b401c?v=adba39dfbc53411784194fadcc2502a0) -> (private)
+- Silent Mines
 - [우리 길드 정상 영업합니다.](https://github.com/Kimighwan/neglect)
 
 <br />

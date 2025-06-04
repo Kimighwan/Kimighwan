@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://kimighwan.github.io/](https://kimighwan.github.io/)
 
-- 📫 How to contect me **moonfgg@naver.com**
+- 📫 How to connect me **moonfgg@naver.com**
 <br />
 <br />
 
